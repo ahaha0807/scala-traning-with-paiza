@@ -9,3 +9,8 @@ object Main extends App{
         println("OK")
     }
 }
+
+/**
+- http://www.mwsoft.jp/programming/scala/scala_string.html（Stringクラスに便利なメソッドがないか探した => 重複削除メソッドを発見）
+- http://blog.sarabande.jp/post/61557140715（文字数カウント）
+*/
